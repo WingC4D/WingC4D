@@ -7,8 +7,6 @@ Currently developing **ParaScan** — an advanced internal reconnaissance framew
 
 ## 🔧 Projects
 
-### [ParaScan](https://github.com/WingC4D/ParaScan)
-
 Advanced LAN port scanner with:
 
 - TCP conversation emulation
