@@ -3,5 +3,5 @@
 - Currently studying the WinAPI and NTAPI
 - Langauges: Python, C, Assembly.\n
 - started learning (Code/CS etc.) on the: 12th/Jan/25.\n
-- python Progress Tracker: https://www.boot.dev/u/warpedauthor69\n
-Have a good one! :)
+- python Progress Tracker: https://www.boot.dev/u/warpedauthor69
+[#] Have a good one! :)
