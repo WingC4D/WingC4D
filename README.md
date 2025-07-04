@@ -1,7 +1,11 @@
-# 👋 Welcome
-- I'm a Wing, a cybersecurity student focused on learning low-level systems interactions, reverse engineering and malware analysis.
-- Currently studying the WinAPI and NTAPI
-- Langauges: Python, C, Assembly.
-- started learning (Code/CS etc.) on the: 12th/Jan/25.
-- python Progress Tracker: https://www.boot.dev/u/warpedauthor69
-# Have a good one! 😄
+#👋 Hello! I'm WingC4D, an aspiring cybersecurity professional focused on low-level systems interactions, reverse engineering, and malware analysis.
+
+I am actively building expertise in these domains, with a particular emphasis on understanding Windows API (WinAPI) and NTAPI for deep insights into operating system internals and malware behavior.
+
+**Key Technologies & Interests:**
+* **Languages:** Python , C, Assembly
+* **Areas of Study:** Malware Analysis, Reverse Engineering, Low-Level System Programming, Cyber Defense Principles
+
+You can track my Python progress here: [https://www.boot.dev/u/warpedauthor69](https://www.boot.dev/u/warpedauthor69)
+
+Feel free to explore my repositories to see my projects and learning journey.
