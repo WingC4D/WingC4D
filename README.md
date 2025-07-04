@@ -4,7 +4,7 @@ I am actively building expertise in these domains, with a particular emphasis on
 
 **Key Technologies & Interests:**
 * **Languages:** Python , C, Assembly
-* **Areas of Study:** Malware Analysis, Reverse Engineering, Low-Level System Programming, Cyber Defense Principles
+* **Areas of Study:** Malware Analysis & Development, Reverse Engineering, Low-Level System Programming, Cyber Defense Principles, SOC Operations.
 
 You can track my Python progress here: [https://www.boot.dev/u/warpedauthor69](https://www.boot.dev/u/warpedauthor69)
 
