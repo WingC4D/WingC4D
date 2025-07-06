@@ -8,4 +8,8 @@ I am actively building expertise in these domains, with a particular emphasis on
 
 You can track my Python progress here: [https://www.boot.dev/u/warpedauthor69](https://www.boot.dev/u/warpedauthor69)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/aa10fbeb-1570-45be-b3de-ab7c4f308eb5/thumbnail" >
+</p>
+
 Feel free to explore my repositories to see my projects and learning journey.
