@@ -37,9 +37,9 @@
 - [ ] Learn to develop HTTP/S Servers in Go.
 - [ ] Fully understand x86/x64 Assembly (both).
 - [ ] Learn to code in C++.
-- [ ] Learn to fully decompile and reverse engineer software and malware effectively.
+- [ ] Learn to decompile and reverse engineer software and malware effectively.
 ---
-You can track my Python & Go (& some C) progress here:
+You can track my Python & Go (& some C) progress [here:](https://www.boot.dev/u/warpedauthor69) 
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/aa10fbeb-1570-45be-b3de-ab7c4f308eb5/thumbnail" >
