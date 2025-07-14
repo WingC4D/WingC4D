@@ -20,12 +20,30 @@ Currently building expertise in these domains, with a particular emphasis on und
 * Network Defence & Attack.
 * SOC Operations.
 
+#### Goals I've Marked:
+- [X] Learn to code in Python.
+- [X] Learn Object Oriented Programming.
+- [X] Learn Functional Programming.
+- [X] Learn Data Structures & Algorithms.
+- [X] Learn to code in C.
+- [X] Learn to utilize the WinAPI effectively.
+- [X] Learn & implement encryption algorithms (RC4, basic XOR, AES implementation on the way). 
+
+ #### Goals I've Yet To Mark:
+- [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
+- [ ] Learn to utilize the NTAPI effectively and document for myself the undocumented structures I want to know.
+- [ ] Learn to develop HTTP/S Servers in Go.
+- [ ] Fully understand x86/x64 Assembly (both).
+- [ ] Learn to code in C++.
+- [ ] Learn to fully decompile and reverse engineer software and malware effectively.
+
+
 You can track my Python & Go (& some C) progress here:
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/aa10fbeb-1570-45be-b3de-ab7c4f308eb5/thumbnail" >
 </p>
 
-Feel free to explore my repositories to see my projects and learning journey.
+You can explore my repositories to see my projects and learning journey.
 
 
