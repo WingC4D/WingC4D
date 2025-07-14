@@ -39,7 +39,7 @@
 - [ ] Learn to code in C++.
 - [ ] Learn to decompile and reverse engineer software and malware effectively.
 ---
-You can track my Python & Go (& some C) progress [here:](https://www.boot.dev/u/Wing-C4D) 
+You can track my Python & Go (& some C) progress [here:](https://www.boot.dev/u/wing_c4d)
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/aa10fbeb-1570-45be-b3de-ab7c4f308eb5/thumbnail" >
