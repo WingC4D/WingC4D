@@ -6,7 +6,7 @@ Currently building expertise in these domains, with a particular emphasis on und
 ### **Key Technologies**
 <p align="left">
   <href = "https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,go,vscode,visualstudio,clion,pycharm,kali,ubuntu,github,obsidian" >
+  <img src="https://skillicons.dev/icons?i=py,c,go,vscode,visualstudio,clion,pycharm,github,obsidian,windows,kali,ubuntu" >
 </p>
 
 ### **Areas of Study:** 
