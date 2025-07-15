@@ -29,7 +29,9 @@
 - [X] Learn Data Structures & Algorithms.
 - [X] Learn to code in C.
 - [X] Learn to utilize the WinAPI effectively.
-- [X] Learn & implement encryption algorithms (RC4, basic XOR, AES implementation on the way). 
+- [X] Learn & implement encryption algorithms (RC4, basic XOR, AES implementation on the way).
+- [X] Execute my own binary with msfvenom shell code hidden in it and execute the shell code.
+
 ---
  #### Goals I've Yet To Mark:
 - [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
