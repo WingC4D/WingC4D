@@ -31,7 +31,6 @@
 - [X] Learn to code in C++.
 - [X] Learn to utilize the WinAPI effectively.
 - [X] Learn & implement encryption algorithms.
-- [X] Execute my own binary with msfvenom shell code hidden in it and execute the shell code.
 - [X] implement my own custom API hooks
 ---
  #### Goals I've Yet To Mark:
