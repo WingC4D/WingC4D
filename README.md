@@ -32,7 +32,7 @@
 - [X] Learn to utilize the WinAPI effectively.
 - [X] Learn & implement encryption algorithms (RC4, basic XOR, AES implementation on the way).
 - [X] Execute my own binary with msfvenom shell code hidden in it and execute the shell code.
-
+- [X] implement my own custom API hooks
 ---
  #### Goals I've Yet To Mark:
 - [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
@@ -41,6 +41,7 @@
 - [ ] Fully understand x86/x64 Assembly (both).
 - [ ] master C++.
 - [ ] Learn to decompile and reverse engineer software and malware effectively.
+- [ ] implement my own custom API hooks
 ---
 You can track my Python & Go (& some C) progress [here:](https://www.boot.dev/u/wing_c4d)
 
