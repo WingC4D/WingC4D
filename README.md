@@ -11,7 +11,7 @@
 ### **Key Technologies:**
 <p align="left">
   <href = "https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,go,vscode,visualstudio,clion,pycharm,github,obsidian,windows,kali,ubuntu" >
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,go,vscode,visualstudio,clion,pycharm,github,obsidian,windows,kali,ubuntu" >
 </p>
 
 ---
@@ -28,6 +28,7 @@
 - [X] Learn Functional Programming.
 - [X] Learn Data Structures & Algorithms.
 - [X] Learn to code in C.
+- [X] Learn to code in C++.
 - [X] Learn to utilize the WinAPI effectively.
 - [X] Learn & implement encryption algorithms (RC4, basic XOR, AES implementation on the way).
 - [X] Execute my own binary with msfvenom shell code hidden in it and execute the shell code.
@@ -38,7 +39,7 @@
 - [ ] Learn to utilize the NTAPI effectively and document for myself the undocumented structures I want to know.
 - [ ] Learn to develop HTTP/S Servers in Go.
 - [ ] Fully understand x86/x64 Assembly (both).
-- [ ] Learn to code in C++.
+- [ ] master C++.
 - [ ] Learn to decompile and reverse engineer software and malware effectively.
 ---
 You can track my Python & Go (& some C) progress [here:](https://www.boot.dev/u/wing_c4d)
