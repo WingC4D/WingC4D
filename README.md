@@ -31,7 +31,6 @@
 - [X] Learn to code in C++.
 - [X] Learn to utilize the WinAPI effectively.
 - [X] Learn & implement encryption algorithms.
-- [X] implement my own custom API hooks
 ---
  #### Goals I've Yet To Mark:
 - [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
