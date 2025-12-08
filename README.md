@@ -36,7 +36,7 @@
 - [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
 - [ ] Document for myself the undocumented structures I want to know.
 - [ ] Learn to develop HTTP/S Servers in Go.
-- [ ] Fully understand x86/x64 Assembly (both).
+- [ ] Fully understand Intel/aarch7 Assembly (both).
 - [ ] master Modern C++.
 - [ ] Learn to decompile and reverse engineer software and malware effectively.
 - [ ] implement my own custom API hooks
