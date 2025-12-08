@@ -23,21 +23,21 @@
 * SOC Operations.
 ---
 #### Goals I've Marked:
-- [X] Learn to code in Python.
+- [X] Learn to Develop in Python.
 - [X] Learn Object Oriented Programming.
 - [X] Learn Functional Programming.
 - [X] Learn Data Structures & Algorithms.
-- [X] Learn to code in C.
-- [X] Learn to code in C++.
+- [X] Learn to Develop in C.
+- [X] Learn to Develop in C++.
 - [X] Learn to utilize the WinAPI effectively.
 - [X] Learn & implement encryption algorithms.
 ---
  #### Goals I've Yet To Mark:
 - [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
-- [ ] Learn to utilize the NTAPI effectively and document for myself the undocumented structures I want to know.
+- [ ] Document for myself the undocumented structures I want to know.
 - [ ] Learn to develop HTTP/S Servers in Go.
 - [ ] Fully understand x86/x64 Assembly (both).
-- [ ] master C++.
+- [ ] master Modern C++.
 - [ ] Learn to decompile and reverse engineer software and malware effectively.
 - [ ] implement my own custom API hooks
 ---
