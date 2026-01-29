@@ -6,7 +6,7 @@
 ---
 ### **I am an aspiring cybersecurity professional:**
 - Focused on low-level systems interactions, reverse engineering, and malware analysis.
-- Currently building expertise in these domains, with a particular emphasis on understanding Windows API (WinAPI) and NTAPI for deep insights into operating system internals and malware behavior.
+- Currently building expertise in these domains, with a particular emphasis on understanding Windows API (WinAPI) and NtAPI for deep insights into operating system internals and malware behavior.
 ---
 ### **Key Technologies:**
 <p align="left">
@@ -16,11 +16,12 @@
 
 ---
 ### **Areas of Study:** 
-* Malware Analysis & Development.
-* Reverse Engineering.
-* Low-Level System Programming.
-* Network Defence & Attack.
-* SOC Operations.
+- Malware Analysis & Development.
+- Reverse Engineering.
+- Low-Level System Programming.
+- Vulnerability Research.
+- Network Defence & Attack.
+- SOC Operations.
 ---
 #### Goals I've Marked:
 - [X] Learn to Develop in Python.
@@ -28,18 +29,19 @@
 - [X] Learn Functional Programming.
 - [X] Learn Data Structures & Algorithms.
 - [X] Learn to Develop in C.
-- [X] Learn to Develop in C++.
-- [X] Learn to utilize the WinAPI effectively.
-- [X] Learn & implement encryption algorithms.
+- [X] Learn to Develop in Modern C++.
+- [X] Learn to utilize the WinAPI & NtAPI effectively.
+- [X] Learn & Implement Encryption Algorithms.
+- [x] Learn To Decompile & Reverse Engineer Software & Malware Effectively.
+- [x] Build A Custom LDE.
+- [x] Develop My Own x86\x64 Safe Runtime API Hooking Engine & Scanner.
 ---
  #### Goals I've Yet To Mark:
 - [ ] Learn & familiarize myself with cryptography-related math, i.e., Galway fields and their bitwise operations
 - [ ] Document for myself the undocumented structures I want to know.
 - [ ] Learn to develop HTTP/S Servers in Go.
-- [ ] Fully understand Intel/aarch7 Assembly (both).
+- [ ] Master aarch7 Assembly.
 - [ ] master Modern C++.
-- [ ] Learn to decompile and reverse engineer software and malware effectively.
-- [ ] implement my own custom API hooks
 ---
 You can track my Python & Go (& some C) progress [here:](https://www.boot.dev/u/wing_c4d)
 
