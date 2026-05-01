@@ -4,7 +4,7 @@
 </a>
 
 ---
-### **I am an aspiring cybersecurity professional:**
+### **I am an aspiring cybersecurity researcher:**
 - Focused on low-level systems interactions, reverse engineering, and malware analysis.
 - Currently building expertise in these domains, with a particular emphasis on understanding Windows API (WinAPI) and NtAPI for deep insights into operating system internals and malware behavior.
 ---
